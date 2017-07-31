@@ -3,5 +3,25 @@
     "bluebird": "^3.5.0",
     "iconv-lite": "^0.4.18",
     "lodash": "^4.17.4"
-  }
+  },
+  "name": "csv2arr",
+  "description": "$ npm install csv2arr",
+  "version": "1.0.1",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/txg5214/csv2arr.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/txg5214/csv2arr/issues"
+  },
+  "homepage": "https://github.com/txg5214/csv2arr#readme"
 }
